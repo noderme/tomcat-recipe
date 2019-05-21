@@ -1,4 +1,3 @@
 # apache
 
-TODO: Enter the cookbook description here.
-
+Recipe to install Apache tomcat
